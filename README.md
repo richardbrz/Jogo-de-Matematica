@@ -8,3 +8,6 @@ Todas as propriedades intelectuais utilizadas pertencem aos seus respectivos don
 
 # Qual línguagem da computação você utilizou?
 Game Maker Language (GML), foi uma das primeiras que aprendi a usar, por ser uma engine poderosa e fácil, utilizei-a para esse projeto. Para quem pretende desenvolver jogos, recomendo essa engine. :)
+
+# Você pretende acrescentar o idioma inglês? 
+Talvez, quando eu estiver com tempo livre e vontade, eu irei trazer para aumentar o público-alvo.
